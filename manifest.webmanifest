@@ -1,7 +1,7 @@
 {
   "name": "Rotta — protocollo metabolico",
   "short_name": "Rotta",
-  "description": "Diario personale del percorso di dimagrimento e resistenza insulinica: peso, circonferenze, foto, esami, terapia e scostamenti dal piano.",
+  "description": "Diario privato del percorso: peso, circonferenze, foto, esami, terapia e scostamenti dal piano.",
   "lang": "it",
   "start_url": "./index.html",
   "scope": "./",
@@ -11,6 +11,7 @@
   "theme_color": "#14303F",
   "icons": [
     { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
-    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
   ]
 }
